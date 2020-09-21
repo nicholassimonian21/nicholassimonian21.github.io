@@ -9,6 +9,12 @@ h1 {
      font-size: 70px;
 }
 
+h2 {
+  color #457B9D;
+  font-size: 40px;
+  background-color: red;
+}
+
 #impact1{
   font-size: 25px;
   color: #A8DADC;
