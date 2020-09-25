@@ -1,3 +1,81 @@
+/*
+
+colors:
+  blue - #0081A7
+  torquoise - #00AFB9
+  whitish - #FDFCDC
+  salmon - #FED9B7
+  light red - #F07176
+
+*/
+
+@import url(https://fonts.google.com/specimen/Oswald);
+@import url(https://fonts.google.com/specimen/Secular+One);
+@import url(https://fonts.google.com/specimen/Metamorphous);
+
+
 body {
-  background-color: #F3F455;
+  background-color: #FED9B7;
+}
+
+header {
+
+  color: #00AFB9;
+  font-family: "Secular One";
+  font-style: bold;
+  font-size: 100px;
+  text-align: center;
+
+}
+
+
+h1 {
+	color: #F07176;
+	text-align: center;
+  font-family: "Oswald";
+  font-style: bold;
+  font-size: 70px;
+  text-align: left;
+}
+
+h2 {
+  color: #0081A7;
+  font-family: "Metamorphous";
+  font-size: 40px;
+  background-color: red;
+}
+
+table {
+
+  border: 5px solid black;
+  border-style: solid;
+
+}
+
+th {
+
+  border: 2px solid #0081A7;
+  border-style: dashed;
+
+}
+
+td {
+
+  border: 2px solid #0081A7;
+  border-style: dotted;
+
+}
+
+}
+a:link {
+    color: #2E2BA6;
+}
+a:visited {
+    color: purple;
+}
+a:hover {
+    color: green;
+}
+a:active {
+    color: red;
 }
