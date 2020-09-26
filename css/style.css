@@ -45,6 +45,20 @@ h2 {
   color: #0081A7;
 }
 
+h3 {
+  font-style: bold;
+  font-size: 20px;
+  color: #FDFCDC;
+  text-align: center;
+}
+
+h4 {
+  font-style: bold;
+  font-size: 10px;
+  color: #00AFB9;
+  text-align: center;
+}
+
 /* css functions dealing with the table */
 
 table {
@@ -59,13 +73,24 @@ caption {
 }
 
 
-th {
+#middletable {
   border: 2px solid #0081A7;
-  border-style: dashed;
+  border-style: double;
   margin-top: 20px;
   margin-left: 10px;
   margin-right: 10px;
   margin-top: 20px;
+}
+
+#middlecolhead {
+  font-style: bold;
+  font-size:15px;
+}
+
+#laxvideo, #laximage, #laxpodcast {
+  border: 1px solid #00AFB9;
+  border-style: dotted;
+  text-align: center;
 }
 
 td {
@@ -98,3 +123,22 @@ a:hover {
 a:active {
     color: red;
 }
+
+#listTitle {
+  font-size: 15px;
+}
+
+ul {
+  font-size: 8px;
+  color: #F07176;
+  font-style: bold;
+}
+
+#homelink, #aboutlink {
+  font-size: 10px;
+  color: #F07176;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#
