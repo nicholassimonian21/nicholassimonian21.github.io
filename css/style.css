@@ -9,23 +9,24 @@ colors:
 
 */
 
+/* fonts */
+
 @import url(https://fonts.google.com/specimen/Oswald);
 @import url(https://fonts.google.com/specimen/Secular+One);
 @import url(https://fonts.google.com/specimen/Metamorphous);
-
 
 body {
   background-color: #FED9B7;
 }
 
-header {
+/* main big text css stuff */
 
+header {
   color: #00AFB9;
   font-family: "Secular One";
   font-style: bold;
   font-size: 100px;
   text-align: center;
-
 }
 
 
@@ -44,50 +45,43 @@ h2 {
   color: #0081A7;
 }
 
-table {
+/* css functions dealing with the table */
 
+table {
   border: 5px solid black;
   border-style: solid;
   padding: 15px;
-
 }
 
 caption {
-
   font-size: 25px;
   font-style: bold;
-
 }
 
 
 th {
-
   border: 2px solid #0081A7;
   border-style: dashed;
   margin-top: 20px;
   margin-left: 10px;
   margin-right: 10px;
   margin-top: 20px;
-
 }
 
 td {
-
   border: 2px solid #0081A7;
   border-style: dotted;
   margin-top: 10px;
   margin-left: 5px;
   margin-right: 5px;
   margin-top: 10px;
-
 }
 
 p {
-
   font-color: #F07176;
-
-
 }
+
+/* css for links */
 
 a {
   font-size: 15px;
