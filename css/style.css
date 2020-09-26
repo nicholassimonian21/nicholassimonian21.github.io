@@ -118,10 +118,10 @@ h3 {
 }
 
 ul {
+  list-style-type: square;
   font-size: 15px;
   color: #F07176;
   font-style: bold;
-  list-style-type: square;
 }
 
 #homelink, #aboutlink {
