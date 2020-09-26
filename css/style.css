@@ -118,6 +118,7 @@ h3 {
 }
 
 ul {
+  color: black;
   list-style-type: square;
   font-size: 15px;
   color: #F07176;
