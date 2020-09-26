@@ -50,6 +50,7 @@ h3 {
   font-size: 20px;
   color: #FDFCDC;
   text-align: center;
+  background-color: black;
 }
 
 h4 {
@@ -93,7 +94,7 @@ caption {
   text-align: center;
 }
 
-td {
+#middletable {
   border: 2px solid #0081A7;
   border-style: dotted;
   margin-top: 10px;
@@ -135,10 +136,8 @@ ul {
 }
 
 #homelink, #aboutlink {
-  font-size: 10px;
+  font-size: 15px;
   color: #F07176;
   padding-top: 50px;
   padding-bottom: 50px;
 }
-
-#
