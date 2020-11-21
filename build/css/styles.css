@@ -38,7 +38,7 @@ h1 {
   background-color: #e67003;
 }
 h2 {
-  color: #E71D36;
+  color: #2EC4B6;
   text-align: left;
   font-size: 40px;
 }
@@ -53,34 +53,34 @@ h3 {
   font-size: 20px;
 }
 .navbar {
-  background-color: #2EC4B6;
+  background-color: #023259;
 }
 .dropdown-item {
   color: #0081A7;
 }
 #laxvideo {
-  border: 1px solid #00AFB9;
+  border: 1px solid black;
   border-style: dotted;
   text-align: center;
   font-size: 10px;
-  color: #FF9F1C;
+  color: #2EC4B6;
 }
 #laximage {
-  border: 1px solid #00AFB9;
+  border: 1px solid black;
   border-style: dotted;
   text-align: center;
   font-size: 10px;
-  color: #FF9F1C;
+  color: #2EC4B6;
 }
 #laxpodcast {
-  border: 1px solid #00AFB9;
+  border: 1px solid black;
   border-style: dotted;
   text-align: center;
   font-size: 10px;
-  color: #FF9F1C;
+  color: #2EC4B6;
 }
 p {
-  color: #003049;
+  color: #16afff;
   font-family: "Secular One";
   text-align: left;
 }
@@ -103,6 +103,15 @@ a:active {
 }*/
 #listTitle {
   font-size: 15px;
+}
+#firstButton {
+  background-color: #E71D36;
+}
+#secondButton {
+  background-color: #E71D36;
+}
+#thirdButton {
+  background-color: #E71D36;
 }
 ul {
   color: black;
