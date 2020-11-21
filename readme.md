@@ -11,9 +11,9 @@ My interest page aims to educate people about the game of lacrosse and hopefully
     * a data folder with the blog posts saved as a JSON file
 2. If you have not already, download Node.js using the following link: https://nodejs.org/en/download/.
 3. Install the necessary packages for fs, ejs, and LESS by using the following commands when you are in your interest site folder in the Terminal:
-    * 'npm install fs --save'
-    * 'npm install ejs --save'
-    * 'npm install less --save'
+    * `npm install fs --save`
+    * `npm install ejs --save`
+    * `npm install less --save`
 4. Turn the LESS code into CSS using the following command line when you are in your interest site folder in the Terminal:
     * './node_modules/less/bin/lessc ./LESS/styles.less ./build/css/styles.css'
 5. Compile the ejs files and create the html web pages using the following command line while in your interest page in the Terminal:
