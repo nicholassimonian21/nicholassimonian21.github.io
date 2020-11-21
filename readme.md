@@ -15,7 +15,7 @@ My interest page aims to educate people about the game of lacrosse and hopefully
     * `npm install ejs --save`
     * `npm install less --save`
 4. Turn the LESS code into CSS using the following command line when you are in your interest site folder in the Terminal:
-    * './node_modules/less/bin/lessc ./LESS/styles.less ./build/css/styles.css'
+    * `./node_modules/less/bin/lessc ./LESS/styles.less ./build/css/styles.css`
 5. Compile the ejs files and create the html web pages using the following command line while in your interest page in the Terminal:
-    * 'node website_generator.js'
+    * `node website_generator.js`
 6. Open one of the html files in a browser and play around with it!  Enjoy my Interest Page!
